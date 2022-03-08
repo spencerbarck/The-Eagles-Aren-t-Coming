@@ -6,6 +6,6 @@ public class HelloWorld : MonoBehaviour
 {
     void Start()
     {
-        Debug.Log("hello World");
+        Debug.Log("hello Rougelike");
     }
 }
